@@ -1,4 +1,4 @@
-﻿using LevelDB;
+using LevelDB;
 using MaterialSkin;
 using MaterialSkin.Controls;
 using System;
