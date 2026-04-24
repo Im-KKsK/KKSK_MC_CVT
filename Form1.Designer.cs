@@ -146,9 +146,9 @@
             this.label22.Font = new System.Drawing.Font("HarmonyOS Sans SC", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label22.Location = new System.Drawing.Point(469, 387);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(219, 21);
+            this.label22.Size = new System.Drawing.Size(244, 21);
             this.label22.TabIndex = 21;
-            this.label22.Text = "本软件遵循 GPL-v3 开源协议";
+            this.label22.Text = "本软件遵循 Apache 2.0开源协议";
             // 
             // label20
             // 
@@ -769,7 +769,7 @@
             this.materialMultiLineTextBox21.SelectionLength = 0;
             this.materialMultiLineTextBox21.SelectionStart = 0;
             this.materialMultiLineTextBox21.ShortcutsEnabled = true;
-            this.materialMultiLineTextBox21.Size = new System.Drawing.Size(409, 560);
+            this.materialMultiLineTextBox21.Size = new System.Drawing.Size(403, 560);
             this.materialMultiLineTextBox21.TabIndex = 17;
             this.materialMultiLineTextBox21.TabStop = false;
             this.materialMultiLineTextBox21.Text = "当前状态：等待用户开始执行操作";
@@ -796,7 +796,7 @@
             this.materialButton4.Depth = 0;
             this.materialButton4.HighEmphasis = true;
             this.materialButton4.Icon = null;
-            this.materialButton4.Location = new System.Drawing.Point(338, 15);
+            this.materialButton4.Location = new System.Drawing.Point(332, 15);
             this.materialButton4.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.materialButton4.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialButton4.Name = "materialButton4";
@@ -859,7 +859,7 @@
             this.tabPage5.Controls.Add(this.webBrowser1);
             this.tabPage5.Location = new System.Drawing.Point(4, 22);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(1309, 720);
+            this.tabPage5.Size = new System.Drawing.Size(1217, 720);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "使用教程";
             // 
@@ -869,7 +869,7 @@
             this.webBrowser1.Location = new System.Drawing.Point(0, 0);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(1309, 720);
+            this.webBrowser1.Size = new System.Drawing.Size(1217, 720);
             this.webBrowser1.TabIndex = 0;
             // 
             // materialTabSelector1
